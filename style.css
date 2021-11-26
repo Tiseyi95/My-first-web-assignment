@@ -1,0 +1,37 @@
+/* my first css */
+
+/* tag based selector */
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.2em;
+    background-color: rgb(104, 121, 146);
+    color:black
+}
+
+h1{
+    color: rgb(73, 21, 21);
+    font-family: serif;
+}
+
+h2{
+    color: rgb(80, 72, 5)
+}
+
+/* id based selector */
+#html-hobby-heading {
+    color: rgba(31, 49, 2, 0.493)
+}
+
+/* class based selector */
+.underline{
+    text-decoration: underline;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#intro-ps {
+    font-style: italic;
+    font-size: 0.8em;
+}
